@@ -4,6 +4,10 @@ IPTV Deep M3U Cleaner is a desktop application that deeply validates IPTV stream
 
 Unlike basic HTTP or ping-based checkers, this tool verifies whether a stream actually contains a real video stream, making the results far more reliable.
 
+<img width="753" height="580" alt="image" src="https://github.com/user-attachments/assets/d29ff2e3-fe74-49eb-8f75-ddc898af7a98" />
+
+<img width="745" height="581" alt="image" src="https://github.com/user-attachments/assets/8e358a50-f278-42e6-848c-4f3e5238415e" />
+
 ✨ Features
 
 Deep IPTV stream validation with FFprobe
